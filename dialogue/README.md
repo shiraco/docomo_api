@@ -1,4 +1,4 @@
-chat.py
+dialogue.py
 ====
 
 雑談対話API
